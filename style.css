@@ -1,0 +1,55 @@
+/* about html  */
+
+.d{
+    margin: 20px;
+    padding: 30px;
+    border: 20px;
+    border-style: ridge;
+}
+
+body{
+    background-color: rgba(221, 190, 150, 0.845);
+}
+.d{
+    background-color: rgba(157, 216, 218, 0.822);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.h{
+    color: rgb(255, 0, 0);
+}
+.l{
+    color: brown;
+}
+p{
+    color: rgb(58, 4, 252);
+}
+/* about css */
+.c{
+    color: #b205fc;
+}
+.s{
+    color:crimson;
+}
+.n{
+    background-color: rgb(217, 149, 170);
+}
+.n{
+    margin: 20px;
+    padding: 30px;
+    border: 20px;
+    border-style: ridge;
+
+}
+
+
+
+
+
